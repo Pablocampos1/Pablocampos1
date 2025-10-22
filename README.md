@@ -174,3 +174,11 @@ Me chamo Pablo Campos De Miranda, tenho 23 anos e sou natural de Brasilia. Estou
   />
 
 </p>
+
+### 💬 Uma frase que me define:
+
+> "Não é só sobre código — é sobre criar experiências que causem impacto."
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
