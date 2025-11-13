@@ -1,6 +1,6 @@
 #👨🏽‍💻 Pablo Campos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedoro FullStack`**
 
 Me chamo Pablo Campos De Miranda, tenho 23 anos e sou natural de Brasilia. Estou cursando Análise e Desenvolvimento de Sistemas na UDF.
 
