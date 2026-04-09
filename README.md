@@ -68,14 +68,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablocampos1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocampos1&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### 🌐 Conecte-se comigo
 
@@ -90,10 +83,6 @@
 ### 💬 Uma frase que me define:
 
 > "Não é só sobre código — é sobre criar experiências que causem impacto."
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pablocampos1/Pablocampos1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%"/>
