@@ -37,14 +37,29 @@
 
 ### 🧠 Tecnologias e Ferramentas
 
-#### 🎨 Front-End & Estilização
+#### 🎨 Front-End & Design
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,jquery" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React JS"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" title="Angular"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma Design"/>
 </div>
 
 #### ⚙️ Back-End & Controle
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,git" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="Visual Studio Code"/>
+</div>
+
+#### 💾 Banco de Dados
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite / SQL"/>
 </div>
 
 ---
@@ -54,13 +69,12 @@
 <details>
   <summary><strong>📚 Ver stack de estudos atual</strong></summary>
   
-  - ⚛️ **Frameworks Modernos:** Aprofundamento no ecossistema React e Next.js.
-  - 🌌 **Back-end Avançado:** Arquitetura MVC, APIs RESTful e segurança com PHP/Laravel.
-  - 🌍 **Boas Práticas:** Clean Code e refatoração de sistemas.
+  - ⚛️ **Frontend Avançado:** Arquitetura de componentes e State Management.
+  - 🌌 **Estilização:** Tailwind CSS e Design Systems.
+  - 🌍 **APIs:** Integrações RESTful complexas.
+  - 🤖 **IA Generativa:** Implementação de IAs em soluções web.
   
 </details>
-
----
 
 ### 💼 Projetos em destaque
 
