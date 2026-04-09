@@ -12,7 +12,6 @@
   Entusiasta de Desenvolvimento Web, Arquitetura de Software e ecossistema FullStack.
   
   <br>
-  
 </div>
 
 <br>
@@ -40,24 +39,12 @@
 
 #### 🎨 Front-End & Estilização
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React JS"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS" title="SASS"/>
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="JQuery" title="JQuery"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,jquery" />
 </div>
 
 #### ⚙️ Back-End & Controle
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" title="Laravel"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,git" />
 </div>
 
 ---
@@ -84,8 +71,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablocampos1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocampos1&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablocampos1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocampos1&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -105,7 +92,7 @@
 > "Não é só sobre código — é sobre criar experiências que causem impacto."
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake?github_user=Pablocampos1&outputs=svg" alt="Snake animation" />
 </p>
 
 <div align="center">
