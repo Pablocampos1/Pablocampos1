@@ -71,8 +71,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablocampos1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocampos1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablocampos1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablocampos1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 > "Não é só sobre código — é sobre criar experiências que causem impacto."
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake?github_user=Pablocampos1&outputs=svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pablocampos1/Pablocampos1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <div align="center">
