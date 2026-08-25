@@ -72,8 +72,9 @@
   - ⚛️ **Frontend Avançado:** Arquitetura de componentes e State Management.
   - 🌌 **Estilização:** Tailwind CSS e Design Systems.
   - 🌍 **APIs:** Integrações RESTful complexas.
-  - 🤖 **IA Generativa:** Implementação de IAs em soluções web.
-  
+  - 🤖 **Inteligência Artificial:** Fundamentos de IA, IA Generativa e integração de modelos de IA em aplicações web.
+  - 🧠 **Machine Learning:** Conceitos e aplicações de aprendizado de máquina.
+
 </details>
 
 
