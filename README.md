@@ -76,13 +76,6 @@
   
 </details>
 
-#// ### 💼 Projetos em destaque
-
-🖥️ [**Meu Portfólio**](#) — Adicione aqui o link para o seu site ou projeto principal.  
-
----//#
-
-
 
 ### 🌐 Conecte-se comigo
 
